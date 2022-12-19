@@ -4,6 +4,8 @@ PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written
 
 Read Chapter 10 of your textbook, completing each exercise. 
 
+If you need help with your thumb-drive/xampp set-up:
+
 ![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/mysqli_connect.PNG)
 
 ![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/phpMyAdminConfigPassword.PNG)
