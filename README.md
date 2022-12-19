@@ -2,9 +2,27 @@
 
 PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
 
-Read Chapter 10 of your textbook, completing each exercise.  
+Read Chapter 10 of your textbook, completing each exercise. 
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/mysqli_connect.PNG)
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/phpMyAdminConfigPassword.PNG)
 
 Submission: Please take and submit .png screenshots showing your working code running in a browser for 10.1, 10.2, 10.3, 10.4, 10.5; place all files in a .zip file.
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/10.1newColumnsAndLinks.PNG)
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/deleteUser.PNG)
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/10.2deleteUserDone.PNG)
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/10.3editUser.PNG)
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/editUser2.PNG)
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/10.4multiPageUserView.PNG)
+
+![p](https://github.com/bell-kevin/MariaDBchap10exerPHP/blob/main/chap10exer/screenshots/10.5orderByViewUsers.PNG)
 
 == We're Using GitHub Under Protest ==
 
